@@ -1,1 +1,3 @@
-fuck youuuuuuuuuu
+start: 
+MsgBox "fuck youuuuuuuuuu";
+GoTo start
